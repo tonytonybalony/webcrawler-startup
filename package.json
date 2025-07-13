@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler-startup",
+  "version": "1.0.0",
+  "description": "Project to learn how to build a webcrawler in Javascript.",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonytonybalony/webcrawler-startup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonytonybalony/webcrawler-startup/issues"
+  },
+  "homepage": "https://github.com/tonytonybalony/webcrawler-startup#readme",
+  "devDependencies": {
+    "jest": "^30.0.4"
+  }
+}
