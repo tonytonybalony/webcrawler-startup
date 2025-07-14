@@ -19,6 +19,7 @@ async function crawlPage(baseURL, currentURL, pages){
     }
 
     pages[normalizedCurrentURL] = 1
+    
     console.log(`actively crawling: ${currentURL}`)
 
     try {
